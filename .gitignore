@@ -1,0 +1,16 @@
+# Visual Studio : fichiers generes
+.vs/
+x64/
+Debug/
+Release/
+*.exe
+*.obj
+*.pdb
+*.ipdb
+*.iobj
+*.ilk
+*.log
+*.tlog
+*.recipe
+*.user
+*.suo
